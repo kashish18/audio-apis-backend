@@ -1,0 +1,4 @@
+output/
+*.zsh-syntax-highlight/
+uploads/
+.idea/
